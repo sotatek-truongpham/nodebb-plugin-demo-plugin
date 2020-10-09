@@ -1,0 +1,8 @@
+{
+    "id": "nodebb-plugin-demo-plugin",
+    "url": "https://github.com/sotatek-truongpham/nodebb-plugin",
+    "library": "./index.js",
+    "hooks": [
+        { "hook": "action:post.save", "method": "emitPostSave" }
+    ]
+}
