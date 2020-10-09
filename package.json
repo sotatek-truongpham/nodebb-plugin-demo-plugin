@@ -1,0 +1,23 @@
+{
+  "name": "nodebb-plugin-demo-plugin",
+  "version": "1.0.0",
+  "description": "Demo plugin nodebb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sotatek-truongpham/nodebb-plugin-demo-plugin.git"
+  },
+  "keywords": [
+    "emit",
+    "plugin"
+  ],
+  "author": "truong.pham@sotatek.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sotatek-truongpham/nodebb-plugin-demo-plugin/issues"
+  },
+  "homepage": "https://github.com/sotatek-truongpham/nodebb-plugin-demo-plugin#readme"
+}
