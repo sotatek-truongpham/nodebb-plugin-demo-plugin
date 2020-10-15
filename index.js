@@ -1,7 +1,7 @@
 'use strict';
 
 const socketIndex = require.main.require('./src/socket.io');
-const socketPlugins = require.main.require('./socket.io/plugins')
+const socketPlugins = require.main.require('./src/socket.io/plugins')
 
 // socketPlugins.yourplugin = {
 //   // This function is now exposed as the event 'plugins.yourplugin.someevent'
